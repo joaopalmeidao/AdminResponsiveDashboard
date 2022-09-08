@@ -3,7 +3,3 @@
 ## Site Hosted on Firebase
 
 https://site-guara-6a265.web.app/
-
-### Credits
-
-https://www.youtube.com/watch?v=BOF79TAIkYQ
